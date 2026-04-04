@@ -1,3 +1,1 @@
-The registry for Protodora.
-
-Each branch is its own package.
+This is a test dependency for 'testpkg'.
