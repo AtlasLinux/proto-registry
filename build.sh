@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "It works."
+echo "Main Package Build Test: It works."
