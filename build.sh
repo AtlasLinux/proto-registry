@@ -1,1 +1,1 @@
-echo "The dependency also works."
+echo "Dependency Build Test: The dependency also works."
